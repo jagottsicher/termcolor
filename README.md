@@ -51,7 +51,7 @@ The same environment variable and flag [priorities](https://github.com/chalk/sup
 
 ## Credits
 * Originally created by [Efe Karakus](https://www.efekarakus.com/)
-* Edited & republished by [Jens Schendel](https://jens-schendel.com/)
+* Edited & republished by [Jens Schendel](https://www.jens-schendel.com/)
 * Heavily inspired by [chalk/supports-color](https://github.com/chalk/supports-color/)
 
 ## License
